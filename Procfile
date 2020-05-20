@@ -1,1 +1,1 @@
-jp-gatherbot: python discordbot.py
+bot: python discordbot.py
