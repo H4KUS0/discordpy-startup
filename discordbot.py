@@ -16,7 +16,7 @@ else:
     MemberID = pickle.load(open('MemberID.pkl','rb'))
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NzA1MzgxMDcyMDYxMzMzNTA1.XrvTFA.iaCznRwGXpTKhA_fvefUWQD5czI'
+TOKEN = 'NzA1MzgxMDcyMDYxMzMzNTA1.XsUQdw.yjFoAEL81UddOKu3ulF5hYTU8Ew'
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
